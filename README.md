@@ -1,7 +1,4 @@
 <!--Github Profile -->
-
-## Intro
-
 <p><em>Hi, I'm Pruthviraj Rajput 🙏🏻, a Web Developer.
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -29,25 +26,25 @@ You can use the website to generate badges: https://shields.io/
 **Languages , Frameworks and Tools**
 
 
-<code><img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/php-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/react-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/express-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/handlebars-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/heroku-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/github-original.svg?size=50&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/html5-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/css3-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/javascript-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/php-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/python-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/react-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/nodejs-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/express-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/mongodb-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/handlebars-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/heroku-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/git-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/github-original.svg?size=28&color=currentColor"></code>
+<code><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=28&color=currentColor"></code>
 
-<img src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e474hpnbh2cdw4h9dflog0re83tfwzfhrea77yb08q6&rid=200.webp&ct=g" width="100" align="right">
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" align="right">
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" align="right">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align="right">
+<img src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e474hpnbh2cdw4h9dflog0re83tfwzfhrea77yb08q6&rid=200.webp&ct=g" width="50" align="right">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" align="right">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" align="right">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" align="right">
 
