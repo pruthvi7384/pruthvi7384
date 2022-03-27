@@ -1,5 +1,5 @@
 <!--Github Profile -->
-<p><em>Hi, I'm Pruthviraj Rajput 🙏🏻, a Web Developer.
+<p><em>Hi, I'm Pruthviraj Rajput 🙏🏻, a Freelancer || Web Developer || Web Designer.
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
