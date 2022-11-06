@@ -1,5 +1,5 @@
 <!--Github Profile -->
-<p><em>Hi, I'm Pruthviraj Rajput 🙏🏻, a Freelancer || Web Developer || Web Designer.
+<p><em>Hi, I'm Pruthviraj Rajput 🙏🏻, a Software Developer at Siddhatech Software Solution.
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking to collaborate on **web developnment**🤝;
 - 🤔 I’m looking for help with **Design Patterns** 😭;
 - 💬 Ask me about **coding** I love to;
-- 🌐 My Portfolio: https://pruthvirajrajput.great-site.net;
+- 🌐 My Portfolio: under development;
 - 📫 How to reach me: pruthviraj.rajput011@gmail.com ;
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people</b> so if you want to say <b>hi, I'll be happy to meet you more!..</b> 😊</em>
