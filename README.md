@@ -13,11 +13,11 @@ You can use the website to generate badges: https://shields.io/
 
 ###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**About Me:**
 
-- 🌱 I’m currently learning **Vue Js and Play Framwork**;
+- 🌱 I’m currently learning **Vue Js and Play Framwork** ;
 - 👯 I’m looking to collaborate on **web developnment**🤝;
 - 🤔 I’m looking for help with **Design Patterns** 😭;
 - 💬 Ask me about **coding** I love to;
-- 🌐 My Portfolio: https://pruthviraj-rajput.netlify.app;
+- 🌐 My Portfolio: https://pruthviraj-rajput.netlify.app ;
 - 📫 How to reach me: pruthviraj.rajput011@gmail.com ;
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people</b> so if you want to say <b>hi, I'll be happy to meet you more!..</b> 😊</em>
