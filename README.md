@@ -13,8 +13,8 @@ You can use the website to generate badges: https://shields.io/
 
 ###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**About Me:**
 
-- 🌱 I’m currently learning **Vue Js and Play Framwork** ;
-- 👯 I’m looking to collaborate on **web developnment**🤝;
+- 🌱 I’m currently learning **Go Lan** ;
+- 👯 I’m looking to collaborate on **Frontend as well as Backend**🤝;
 - 🤔 I’m looking for help with **Design Patterns** 😭;
 - 💬 Ask me about **coding** I love to;
 - 🌐 My Portfolio: https://pruthviraj-rajput.netlify.app ;
