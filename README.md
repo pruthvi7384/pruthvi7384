@@ -19,23 +19,12 @@
 - 📫 How to reach me: [pruthviraj.rajput011@gmail.com](mailto:pruthviraj.rajput011@gmail.com) ;
 
 <!-- Languages, Frameworks, and Tools Section -->
-**Languages, Frameworks, and Tools:**
+**Skills:**
 
-<code><img src="https://icongr.am/devicon/html5-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/css3-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/javascript-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/php-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/python-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/react-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/nodejs-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/express-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/mongodb-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/handlebars-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/heroku-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/git-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/github-original.svg?size=28&color=currentColor"></code>
-<code><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=28&color=currentColor"></code>
+- **Programming Languages**: Java, Go, JavaScript, C#, HTML, CSS
+- **Frameworks and Libraries**: Spring Boot, Quarkus, Spark, Play Framework, Gin, React.js, Bootstrap, .Net
+- **Tools and Platforms**: Docker, Kubernetes, OpenShift, Jenkins, Git, Firebase, Jira, SonarQube, Nexus
+- **Databases**: MySQL, Oracle, MongoDB, PostgreSQL
+- **Other Skills**: Middleware Development, DevOps, Microservices Architecture, Unit Testing, Agile Methodologies
 
 <em><b>I love connecting with new people</b>, so if you want to say <b>hi, I'll be happy to meet you more! 😊</b></em>
