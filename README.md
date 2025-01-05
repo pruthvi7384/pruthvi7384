@@ -1,5 +1,5 @@
 <!-- GitHub Profile -->
-<p><em>Hi, I'm Pruthviraj Rajput 🙏🏻, a Software Developer at Siddhatech Software Solution.
+<p><em>Hi, I'm Pruthviraj Rajput 🙏🏻, a Software Developer @ Siddhatech Software Solution.
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -11,9 +11,9 @@
 <!-- About Me Section -->
 ###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About Me:**
 
-- 🌱 I’m currently learning **Go Lang** ;
+- 🌱 I’m currently learning **C#/.NET** ;
 - 👯 I’m looking to collaborate on **Frontend as well as Backend** 🤝;
-- 🤔 I’m looking for help with **Design Patterns** 😭;
+- 🤔 I’m looking for help with **New Role** 😭;
 - 💬 Ask me about **coding**. I love to!
 - 🌐 My Portfolio: [pruthviraj-rajput.netlify.app](https://pruthviraj-rajput.netlify.app) ;
 - 📫 How to reach me: [pruthviraj.rajput011@gmail.com](mailto:pruthviraj.rajput011@gmail.com) ;
