@@ -19,7 +19,7 @@
 - 📫 How to reach me: [pruthviraj.rajput011@gmail.com](mailto:pruthviraj.rajput011@gmail.com) ;
 
 <!-- Languages, Frameworks, and Tools Section -->
-**Skills:**
+##Skills:##
 
 - **Programming Languages**: Java, Go, JavaScript, C#, HTML, CSS
 - **Frameworks and Libraries**: Spring Boot, Quarkus, Spark, Play Framework, Gin, React.js, Bootstrap, .Net
