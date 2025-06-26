@@ -1,30 +1,52 @@
-<!-- GitHub Profile -->
-<p><em>Hi, I'm Pruthviraj Rajput 🙏🏻, a Software Developer @ Siddhatech Software Solution.
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1 align="center">Hi 👋, I'm Pruthviraj Rajput</h1>
 
-<!-- Badges -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pruthvi7384)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pruthviraj-rajput-131ba61b4/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&lines=Software+Engineer" alt="Typing SVG" />
+</p>
 
-<!-- About Me Section -->
-###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About Me:**
+---
 
-- 🌱 I’m currently learning **C#/.NET** ;
-- 👯 I’m looking to collaborate on **Frontend as well as Backend** 🤝;
-- 🤔 I’m looking for help with **New Role** 😭;
-- 💬 Ask me about **coding**. I love to!
-- 🌐 My Portfolio: [pruthviraj-rajput.netlify.app](https://pruthviraj-rajput.netlify.app) ;
-- 📫 How to reach me: [pruthviraj.rajput011@gmail.com](mailto:pruthviraj.rajput011@gmail.com) ;
+### 🧑‍💼 About Me
 
-<!-- Languages, Frameworks, and Tools Section -->
-**Skills:**
+- 🔭 Currently working as a **Software Engineer** in the **Banking Sector**
+- 🧱 Building **secure middleware microservices** using Java, Quarkus, and Spring Boot
+- 📬 Experience with **IBM MQ, AMQP, TCP/IP, gRPC** for financial message processing
+- ⚙️ Developing **fault-tolerant**, **event-driven**, and **reactive architectures**
+- 🌐 Portfolio: [pruthviraj-rajput.netlify.app](https://pruthviraj-rajput.netlify.app)
 
-- **Programming Languages**: Java, Go, JavaScript, C#, HTML, CSS
-- **Frameworks and Libraries**: Spring Boot, Quarkus, Spark, Play Framework, Gin, React.js, Bootstrap, .Net
-- **Tools and Platforms**: Docker, Kubernetes, OpenShift, Jenkins, Git, Firebase, Jira, SonarQube, Nexus
-- **Databases**: MySQL, Oracle, MongoDB, PostgreSQL
-- **Other Skills**: Middleware Development, DevOps, Microservices Architecture, Unit Testing, Agile Methodologies
+---
 
-<em><b>I love connecting with new people</b>, so if you want to say <b>hi, I'll be happy to meet you more! 😊</b></em>
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/5419794?s=200&v=4" width="40" height="40" alt="Quarkus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pruthviraj-rajput/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:pruthviraj.rajput@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://pruthviraj-rajput.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“I build resilient APIs and secure messaging services that power modern financial ecosystems.”</b>
+</p>
